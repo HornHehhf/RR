@@ -48,6 +48,9 @@ The code is organized as follows:
 ## Change the working path
 Change the /path/to/working/dir to the path to your working directory.
 
+## Export OPENAI API KEY
+You need to export your own openai api key before running experiments with Openai api, i.e., export OPENAI_API_KEY=$YOUR_OPENAI_API_KEY
+
 ## Data preparation 
 Download and put [StrategyQA dataset](https://github.com/eladsegal/strategyqa/tree/main/data/strategyqa) under /path/to/working/dir/Commonsense/\
 Download and put [TempQeustions datset](http://qa.mpi-inf.mpg.de/TempQuestions.zip) under /path/to/working/dir/Temporal/\
