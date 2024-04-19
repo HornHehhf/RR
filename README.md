@@ -53,7 +53,7 @@ You need to export your own OpenAI API key before running experiments with [Open
 
 ## Data preparation 
 Download and put [StrategyQA dataset](https://github.com/eladsegal/strategyqa/tree/main/data/strategyqa) under /path/to/working/dir/Commonsense/\
-Download and put [TempQeustions datset](http://qa.mpi-inf.mpg.de/TempQuestions.zip) under /path/to/working/dir/Temporal/\
+Download and put TempQeustions datset (link: http://qa.mpi-inf.mpg.de/TempQuestions.zip) under /path/to/working/dir/Temporal/\
 Download and put [INFOTABS dataset](https://github.com/Varun221/trans-kblstm/tree/master/data/kinfotabs_withrels) under /path/to/working/dir/Tabular/
 
 ## Reproducing experiments
